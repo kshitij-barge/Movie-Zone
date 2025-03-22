@@ -3,4 +3,4 @@ A React-based movie listing app built with Vite. Features a sleek UI, dynamic co
 🚀 Tech Stack
 React 19 ⚛️
 Vite ⚡
-ESLint ✅
+
