@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+  color : #ffffff;
+}
+
+body::-webkit-scrollbar{
+  display: none;
+}
+/* 
+.hover-effect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 300px;
+  height: 310px;
+  overflow: hidden;
+  transition: 0.7 ease;
+}
+
+.hover-effect img {
+  width: 100%;
+  transition:transform 0.7s ease;
+  transform: translateZ(0);
+
+}
+
+.hover-effect:hover img{
+  transform : scale(1.1) translateZ(50px);
+}
+
+.btn {
+  min-width: 120px;
+  font-size: 16px;
+  padding: 10px 15px;
+  font-weight: bold;
+} */
